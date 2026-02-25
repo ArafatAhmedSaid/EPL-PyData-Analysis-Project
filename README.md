@@ -8,12 +8,18 @@ This project investigates what truly drives season-long success in the EPL. By i
 
 ## 3.	Project Overview
 This project investigates the key drivers of success in the English Premier League (EPL) 2021/2022 season using two datasets:
+
 •	Match-level data (Results, Goals, Shots etc.)
+
 •	Player-level statistics (Goals, Assists, xG, xA, Min Played etc.)
+
 This analysis was conducted using Python (Pandas, NumPy, and Matplotlib).
 
 ## 4.	Tools & Technologies Used:
 •	Pandas – 			Python Module
+
 •	NumPy –			Python Module
+
 •	Matplotlib – 		Python Module
+
 •	CSV Dataset – 		EPL Match Data (2021–2022).
